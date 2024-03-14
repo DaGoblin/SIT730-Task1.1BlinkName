@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 
 int timeUnit = 500;
 String inputText = "Phil";
